@@ -1,1 +1,1 @@
-# customerSegment-W7
+# customerSegment:Week-7 and week-8
